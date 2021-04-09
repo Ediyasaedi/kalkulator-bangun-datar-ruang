@@ -59,6 +59,8 @@ flutter:
     - assets/imgs/belahketupat.png
     - assets/imgs/trapesium.png
     - assets/imgs/circle.png
+    - assets/imgs/facebook-logo.png
+    - assets/imgs/google-logo.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
