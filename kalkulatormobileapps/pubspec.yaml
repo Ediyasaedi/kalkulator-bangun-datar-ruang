@@ -28,6 +28,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  fancy_bottom_navigation: ^0.3.2
+  carousel_slider: ^3.0.0
 
 dev_dependencies:
   flutter_test:
@@ -47,6 +49,16 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/imgs/logo.png
+    - assets/imgs/card_group.png
+    - assets/imgs/card_journal.png
+    - assets/imgs/square.png
+    - assets/imgs/rectangle.png
+    - assets/imgs/triangle.png
+    - assets/imgs/layang.png
+    - assets/imgs/jajargenjang.png
+    - assets/imgs/belahketupat.png
+    - assets/imgs/trapesium.png
+    - assets/imgs/circle.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
